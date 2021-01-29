@@ -1,0 +1,20 @@
+.service__container
+{
+    text-align: center;
+}
+.inner_service
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.container
+{
+    padding: 16px;
+}
+.container:hover
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(36, 27, 32);
+}
